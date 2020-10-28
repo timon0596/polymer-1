@@ -1,0 +1,28 @@
+{
+  "name": "single-app",
+  "version": "1.0.0",
+  "description": "\"# polymer-1\"",
+  "main": "icon-toggle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timon0596/polymer-1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timon0596/polymer-1/issues"
+  },
+  "homepage": "https://github.com/timon0596/polymer-1#readme",
+  "dependencies": {
+    "@polymer/iron-icon": "^3.0.1",
+    "@polymer/polymer": "^3.0.0-pre.13"
+  },
+  "devDependencies": {
+    "eslint": "^3.0.1",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^1.10.3"
+  }
+}
